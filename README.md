@@ -1,5 +1,13 @@
 # PROJECTS
 
+<a href=https://github.com/dachidavituri/Interactive-pricing-component>
+    Interactive pricing component
+</a>
+<br>
+<a href=https://dachidavituri.github.io/Interactive-pricing-component/>
+    Interactive pricing component - live
+</a>
+<br>
 <a href=https://github.com/dachidavituri/Github_seach_app>
     Github Search app
 </a>
