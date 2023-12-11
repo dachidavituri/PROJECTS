@@ -2,12 +2,15 @@
 <a href=https://github.com/dachidavituri/tip-calculator>
     Tip calculator
 </a>
+<br>
 <a href=https://github.com/dachidavituri/Accordion-app>
     Accordion APP
 </a>
+<br>
 <a href=https://github.com/dachidavituri/Todo-app>
     Todo App
 </a>
+<br>
 <a href=https://github.com/dachidavituri/Interactive-pricing-component>
     Interactive pricing component
 </a>
