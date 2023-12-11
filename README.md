@@ -1,5 +1,13 @@
 # PROJECTS
-
+<a href=https://github.com/dachidavituri/tip-calculator>
+    Tip calculator
+</a>
+<a href=https://github.com/dachidavituri/Accordion-app>
+    Accordion APP
+</a>
+<a href=https://github.com/dachidavituri/Todo-app>
+    Todo App
+</a>
 <a href=https://github.com/dachidavituri/Interactive-pricing-component>
     Interactive pricing component
 </a>
